@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Programming Habit Analyzer",
+  "description": "Analyzing Student Coding Behavior and Providing Personalized Improvement over time through static code metrics and AI-driven feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
